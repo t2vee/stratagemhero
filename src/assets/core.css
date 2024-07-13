@@ -1,0 +1,7 @@
+@font-face {
+    font-family: FSSinclairMedium;
+    src: url('/fonts/fs_sinclair_medium.otf');
+}
+* {
+    font-family: FSSinclairMedium;
+}
