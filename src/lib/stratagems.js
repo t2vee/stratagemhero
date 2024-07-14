@@ -1,5 +1,5 @@
-// Copyright (c) 2024 t2vee. All rights reserved.
-// Use of this source code is governed by an MPL license.
+// Copyright (c) 2024 nvigneux. All rights reserved.
+// https://github.com/nvigneux/Stratagem-Hero-Trainer/blob/9155ed67aed2bf7ea5e44af83aa2513848d28a33/app/lib/placeholder-data-helldivers.js
 
 const CATEGORIES = [
     {
