@@ -1,3 +1,3 @@
-[submodule "helldivers-icons"]
-	path = helldivers-icons
+[submodule "public/helldivers-icons"]
+	path = public/helldivers-icons
 	url = https://github.com/nvigneux/Helldivers-2-Stratagems-icons-svg
