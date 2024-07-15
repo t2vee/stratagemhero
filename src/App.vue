@@ -1,3 +1,6 @@
+<!-- Copyright (c) 2024 t2vee. All rights reserved.
+Use of this source code is governed by an MPL license. -->
+
 <script setup lang="ts">
 import { RouterView } from 'vue-router'
 </script>
